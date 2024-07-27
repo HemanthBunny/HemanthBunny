@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hemanth Kasireddy
 =========================================================================================================================================
 
-Web Developer & a Learner
+Web Developer & an active Learner
 -------------------------
 
 Hi there, I'm a CS Student interested in Web Development and a little in Android Development with strong foundations in both Java and Python.
@@ -36,8 +36,8 @@ src="https://img.shields.io/github/followers/HemanthBunny?logo=github&style=for-
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/HemanthBunny/XChange" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=HemanthBunny&repo=XChange&title_color=3382ed&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/HemanthBunny/XChange-Flask" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=HemanthBunny&repo=XChange-Flask&title_color=3382ed&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/HemanthBunny/XChange" align="left"><img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=HemanthBunny&repo=XChange&title_color=3382ed&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/HemanthBunny/XChange-Flask" align="right"><img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=HemanthBunny&repo=XChange-Flask&title_color=3382ed&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br />
 
 <br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/HemanthBunny/YTVidDownloader" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=HemanthBunny&repo=YTVidDownloader&title_color=3382ed&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/HemanthBunny/GSAP_Sheryians" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=HemanthBunny&repo=GSAP_Sheryians&title_color=3382ed&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/HemanthBunny/YTVidDownloader" align="left"><img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=HemanthBunny&repo=YTVidDownloader&title_color=3382ed&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/HemanthBunny/GSAP_Sheryians" align="right"><img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=HemanthBunny&repo=GSAP_Sheryians&title_color=3382ed&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
